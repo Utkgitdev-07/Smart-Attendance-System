@@ -1,0 +1,4 @@
+1) pip install -r requirements.txt  # Install all required dependencies  
+2) python Add_faces.py  # Adds a new face to the dataset using the webcam  
+3) python tempCodeRunnerFile.py  # Runs the attendance system. Press 'o' to record attendance  
+4) streamlit run app.py  # Displays recorded attendance and allows CSV download  
