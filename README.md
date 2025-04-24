@@ -19,8 +19,7 @@ The **Smart Attendance System** is a vision-based project that automates attenda
 - Face Recognition (if applicable)
 - TensorFlow/PyTorch (if machine learning is involved)
 - SQLite/MySQL (or any database you use)
-- Flask (if you have a web interface)
-
+- Streamlit is used for the web usage
 ## Project Structure
 
 ```
